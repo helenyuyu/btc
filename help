@@ -1,0 +1,21 @@
+- SVD
+	- ROC curve
+	- median of TPs and TNs
+- PCA
+	- RandomizedPCA
+	- IncrementalPCA
+	- Mean-centering
+	- Scaling
+	- http://metaoptimize.com/qa/questions/8076/does-not-centering-data-hurt-when-doing-pca
+	- http://www.quora.com/Does-scikit-learn-have-a-PCA-implementation-for-sparse-matrices
+	- http://docs.scipy.org/doc/scipy/reference/generated/scipy.sparse.linalg.svds.html#scipy.sparse.linalg.svds
+	- http://stackoverflow.com/questions/10718455/apply-pca-on-very-large-sparse-matrix
+	- http://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca
+	- http://stats.stackexchange.com/questions/94103/pca-on-non-centered-data
+	- http://stats.stackexchange.com/questions/36254/mean-centering-for-pca-in-a-2d-array-across-rows-or-cols
+- SFAM
+- EM
+	- how?
+- LDA
+	- http://stackoverflow.com/questions/10718455/apply-pca-on-very-large-sparse-matrix
+	- https://pypi.python.org/pypi/lda
