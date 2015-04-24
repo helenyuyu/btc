@@ -1,5 +1,5 @@
 f = open('reduced_txTripletsCounts.txt', 'r')
-f_out = open('lda_c_counts.txt', 'w')
+f_out = open('btc.dat', 'w')
 prev_doc = 0
 triplets = f.readlines()
 line = ""
